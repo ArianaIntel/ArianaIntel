@@ -1,4 +1,4 @@
-# Ariana Intelligence
+# a.riana i.ntelligence
 
 The purpose of this GitHub account is to enable me to pursue an investigation into an intersection between Python & Robinhood that I believe may provide me with a means to generate profit by uncovering valuable information regarding the randomness & distribution of stock prices. I have a background in Pythonic problem solving, and I have had my fair share of successes. I need to polish my outputs, my portfolio; I need to learn how to manage & take care of my work; I need to learn how to motivate & allocate myself; I need to learn how to work. I need to learn how to perform a wider range of tasks, working towards becoming a "Full Stack" Data Scientist. From there, I need to becoming a competent, general Full Stack Developer.
 
