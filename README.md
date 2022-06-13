@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ArianaIntel
-- 👀 I’m interested in making money 🤑 For real tho, I'm just into math, and I like finding it in the world. If I can make a quick buck off of it fairly, why not 🤷‍♂️
-- 🌱 I’m currently learning how to work, to manage myself. I can get things done, but I lack motiviation & initiative. I also lack a portfolio. This is some of my development.
-- 💞️ I’m looking to collaborate on nothing right now. I'm still trying to get things figured out.
-- 📫 How to reach me... We'll figure this part out later too.
+# Ariana Intelligence
 
-<!---
-ArianaIntel/ArianaIntel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The purpose of this GitHub account is to enable me to pursue an investigation into an intersection between Python & Robinhood that I believe may provide me with a means to generate profit by uncovering valuable information regarding the randomness & distribution of stock prices. I have a background in Pythonic problem solving, and I have had my fair share of successes. I need to polish my outputs, my portfolio; I need to learn how to manage & take care of my work; I need to learn how to motivate & allocate myself; I need to learn how to work. I need to learn how to perform a wider range of tasks, working towards becoming a "Full Stack" Data Scientist. From there, I need to becoming a competent, general Full Stack Developer
+
+In this account, I think I can model stock prices well enough to develop statistics that will inform trades that will thus outperform the market. My goal is for the model to outperform the market, or at least make money, statistically significantly, with an alpha no greater that 0.05.
+
+The purpose of this account is to become a means to an end. I would like to use the work I produce here to generate income. I will have private repositories for critical work. I want to use my work here to provide for myself. If it works, I would like to open up my work to a customer base.  
+Let's see what I end up doing behind the scenes.
